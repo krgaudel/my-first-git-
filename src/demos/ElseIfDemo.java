@@ -7,7 +7,7 @@ public class ElseIfDemo {
 		if (marks >= 80 && marks <= 100) {
 			System.out.println("First Division");
 		}
-		else if (marks>=70 && marks < 80) {
+		else if (marks>=70 && marks <= 80) {
 			System.out.println("Second Division");
 		}
 		else if (marks>=60 && marks<70) {
